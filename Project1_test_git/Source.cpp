@@ -4,7 +4,7 @@ int main()
 {
 	using namespace std;
 
-	cout << "GIT\n";
+	cout << "GIT init\n";
 
 
 	return 0;
